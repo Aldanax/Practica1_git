@@ -1,6 +1,6 @@
 Repaso de todos los comandos de git
 comandos 
-1
+1git init 
 2
 3
 4
