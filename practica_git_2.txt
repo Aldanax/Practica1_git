@@ -1,11 +1,10 @@
 Repaso de todos los comandos de git
 comandos 
-1git init 
-2
-3
-4
-5
-6
-7
-8
-9
+1 git init // iniciar repositorio
+2 clear // limpiar bash 
+3 git config --global user.name // configurar nombre 
+4 git config --global user.email // configurar email 
+5 git add . //Mueve los cambios del directorio de trabajo al área del entorno de ensayo.
+6 git status // ver el estado del repositorio
+7 git commit -m // crear commit 
+8 git push -u origin master// subir archivo a la pagina 
